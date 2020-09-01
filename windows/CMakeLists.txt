@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.15)
-project(todo LANGUAGES CXX)
+project(AndroidStudioProjects LANGUAGES CXX)
 
-set(BINARY_NAME "todo")
+set(BINARY_NAME "AndroidStudioProjects")
 
 cmake_policy(SET CMP0063 NEW)
 
